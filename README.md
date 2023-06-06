@@ -2,6 +2,7 @@
 Statistics Concepts for Data Science with example
 
 Descriptive Statistics
+
 ● Measure of Frequency and Central Tendency
 
 ● Measure of Dispersion
