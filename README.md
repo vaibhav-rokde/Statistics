@@ -30,6 +30,7 @@ Descriptive Statistics
 
 
 Inferential Statistics
+
 ● t-Test
 
 ● z-Test
